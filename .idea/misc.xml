@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GitLabMergeRequestsSettings">{}</component>
+  <component name="GithubPullRequestsUISettings">{}</component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="/opt/anaconda3" project-jdk-type="Python SDK" />
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Documents/GitHub/pytorch-wgan/.idea/inspectionProfiles/profiles_settings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GitHub/pytorch-wgan/.idea/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
